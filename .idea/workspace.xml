@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91d3d4cb-cc1a-4bd0-b3c4-b545a4ea7b93" name="Changes" comment="starter">
-      <change afterPath="$PROJECT_DIR$/KNN/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear_regresion/LinearRegression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear_regresion/linearRegression.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear_regresion/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-    </list>
+    <list default="true" id="91d3d4cb-cc1a-4bd0-b3c4-b545a4ea7b93" name="Changes" comment="linear regression" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,11 +79,28 @@
       <option name="project" value="LOCAL" />
       <updated>1751455515203</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="linear regression">
+      <option name="closed" value="true" />
+      <created>1751473912278</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751473912278</updated>
+    </task>
+    <task id="LOCAL-00003" summary="linear regression">
+      <option name="closed" value="true" />
+      <created>1751473974900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751473974900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="starter" />
-    <option name="LAST_COMMIT_MESSAGE" value="starter" />
+    <MESSAGE value="linear regression" />
+    <option name="LAST_COMMIT_MESSAGE" value="linear regression" />
   </component>
 </project>
