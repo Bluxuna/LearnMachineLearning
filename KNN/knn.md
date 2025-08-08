@@ -65,5 +65,3 @@ For a new point `x`, compute the distance to every training point.
   - `d` = number of features
 
 ---
-
-## 📦 Project Structure
